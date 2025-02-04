@@ -34,7 +34,7 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 
 📧 **Email:** rahila.hussaini.rh@example.com  
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rahil-eng)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rahila-hussaini)  
 
 ---
 
