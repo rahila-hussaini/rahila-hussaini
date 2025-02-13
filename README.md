@@ -10,6 +10,8 @@
 ✨ I’m a passionate software developer who loves turning ideas into reality through code. Whether it's designing user-friendly interfaces, enhancing web functionality, or exploring new technologies, I enjoy every step of the development process.  
 
 I enjoy building projects, learning new technologies, and solving real-world problems. I’m constantly learning and building projects to sharpen my skills. Currently, I'm focused on expanding my portfolio and exploring new opportunities for growth.  
+<a href="https://rahila-hussaini.github.io/My-portfolio/
+">Take a look to my portfolio</a>
 
 ---
 
