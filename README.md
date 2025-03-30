@@ -21,6 +21,7 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237A00B5?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%234479A1?style=for-the-badge&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
