@@ -33,7 +33,7 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 
 
 ### GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahila-hussaini&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahila-hussaini&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahila-hussaini&layout=compact&theme=radical)
 
