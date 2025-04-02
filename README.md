@@ -23,10 +23,10 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%234479A1?style=for-the-badge&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!--![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=black)-->
 ![Git](https://img.shields.io/badge/-Git-f14e32?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=flat&logo=github&logoColor=white)
 
